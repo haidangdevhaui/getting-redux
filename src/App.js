@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import ButtonFucking from './Button';
+import ButtonFucking from './components/Button';
 // import Redux from './redux/Redux';
 // import MultipleReducers from './redux/MultipleReducers';
 // import ReduxMiddleware from './redux/ReduxMiddleware';
